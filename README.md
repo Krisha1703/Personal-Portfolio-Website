@@ -8,10 +8,10 @@ My Portfolio Website serves as a digital resume and portfolio, providing an over
 
 ## Getting Started
 
-To view my Portfolio Website, simply visit the following link: [Portfolio Website](https://krishabotadara.netlify.app/)
+To view my Portfolio Website, simply visit the following link: [Portfolio Website](https://krishabotadara.vercel.app/)
 
 ## Technologies Used
 
-- HTML
-- CSS
-- JavaScript
+- Next JS
+- Framer Motion
+- Tailwind CSS
